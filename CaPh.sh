@@ -4,6 +4,7 @@
 # Important: use 'i686' instead of 'x86_64'
 #
 # For stable environnement see also : https://gist.github.com/mickaelandrieu/6312724
+#Credits: mickaelandrieu 
 echo Installation de Phantomjs
 
 cd /usr/local/share
