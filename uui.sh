@@ -9,3 +9,5 @@ wget http://downloads.sourceforge.net/project/xampp/XAMPP%20Linux/1.8.3/xampp-l$
 sudo chmod +x xampp-linux-x64-1.8.3-4-installer.run
 sudo ./xampp-linux-x64-1.8.3-4-installer.run
 
+#Git Installation
+sudo apt-get install git
