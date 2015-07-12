@@ -1,7 +1,7 @@
 # Ubuntu-AIO
 This repository consists of scripts for AIO Ubuntu
 
-#Software Packages:
+## Software Packages:
 
 <b>uui.sh</b><br>
 1. Google Chrome<br>
