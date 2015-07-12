@@ -7,6 +7,7 @@ This repository consists of scripts for AIO Ubuntu
 1. Google Chrome<br>
 2. Xampp<br>
 3. Git<br>
+4. GKSU (Graphical SUDO) <br>
 
 
 <b>CaPh.sh</b><br>
