@@ -11,3 +11,6 @@ sudo ./xampp-linux-x64-1.8.3-4-installer.run
 
 #Git Installation
 sudo apt-get install git
+
+#Graphical SUDO
+sudo apt-get install gksu
