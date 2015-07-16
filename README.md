@@ -10,8 +10,8 @@ This repository consists of scripts for AIO Ubuntu
 4. GKSU (Graphical SUDO) <br>
 5. Build Essentials
    <li> build-essential</li> 
-    <li> checkinstall</li>
-6. Library Dependencies<br>
+   <li> checkinstall</li>
+6. Library Dependencies
     <li> libreadline-gplv2-dev</li>
     <li> libncursesw5-dev</li>
     <li> libssl-dev</li>
