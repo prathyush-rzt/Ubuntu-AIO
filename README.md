@@ -11,16 +11,16 @@ This repository consists of scripts for AIO Ubuntu
 5. Build Essentials<br>
     -- build-essential <br>
     -- checkinstall<br>
-6. Library Dependencies
-    -- libreadline-gplv2-dev 
-    -- libncursesw5-dev
-    -- libssl-dev
-    -- libsqlite3-dev
-    -- tk-dev 
-    -- libgdbm-dev
-    -- libc6-dev
-    -- libbz2-dev
-7. Python 2.7.5
+6. Library Dependencies<br>
+    -- libreadline-gplv2-dev <br>
+    -- libncursesw5-dev<br>
+    -- libssl-dev<br>
+    -- libsqlite3-dev<br>
+    -- tk-dev <br>
+    -- libgdbm-dev<br>
+    -- libc6-dev<br>
+    -- libbz2-dev<br>
+7. Python 2.7.5<br>
 
 
 <b>CaPh.sh</b><br>
