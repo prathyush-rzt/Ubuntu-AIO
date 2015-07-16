@@ -9,17 +9,17 @@ This repository consists of scripts for AIO Ubuntu
 3. Git<br>
 4. GKSU (Graphical SUDO) <br>
 5. Build Essentials<br>
-    -- build-essential <br>
-    -- checkinstall<br>
+   <li> build-essential</li> <br>
+    <li> checkinstall</li><br>
 6. Library Dependencies<br>
-    -- libreadline-gplv2-dev <br>
-    -- libncursesw5-dev<br>
-    -- libssl-dev<br>
-    -- libsqlite3-dev<br>
-    -- tk-dev <br>
-    -- libgdbm-dev<br>
-    -- libc6-dev<br>
-    -- libbz2-dev<br>
+    <li> libreadline-gplv2-dev</li> <br>
+    <li> libncursesw5-dev</li><br>
+    <li> libssl-dev</li><br>
+    <li> libsqlite3-dev</li><br>
+    <li> tk-dev </li><br>
+    <li> libgdbm-dev</li><br>
+    <li> libc6-dev</li><br>
+    <li> libbz2-dev</li><br>
 7. Python 2.7.5<br>
 
 
