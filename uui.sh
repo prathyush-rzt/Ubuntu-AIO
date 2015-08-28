@@ -5,10 +5,9 @@ sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /et
 sudo apt-get update
 sudo apt-get install -y google-chrome-stable
 
-#Xampp Installation
-wget http://downloads.sourceforge.net/project/xampp/XAMPP%20Linux/1.8.3/xampp-linux-x64-1.8.3-4-installer.run
-sudo chmod +x xampp-linux-x64-1.8.3-4-installer.run
-sudo ./xampp-linux-x64-1.8.3-4-installer.run
+#Install Skype
+
+
 
 
 #Git Installation
@@ -16,6 +15,20 @@ sudo apt-get install -y git
 
 #Graphical SUDO
 sudo apt-get install -y gksu
+
+#Install Java // O
+sudo apt-add-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+
+#install eclipse
+wget http://ftp.jaist.ac.jp/pub/eclipse/technology/epp/downloads/release/mars/R/eclipse-jee-mars-R-linux-gtk-x86_64.tar.gz
+sudo mv sudo mv eclipse-jee-mars-R-linux-gtk-x86_64.tar.gz /opt
+sudo tar -zxvf eclipse-jee-mars-R-linux-gtk-x86_64.tar.gz eclipse
+
+
+
+#
 
 #Install Python
 #Install dependecies first
@@ -33,4 +46,9 @@ sudo checkinstall
 
 #Install Subversion
 sudo apt-get -y install subversion
+
+#Xampp Installation
+wget http://downloads.sourceforge.net/project/xampp/XAMPP%20Linux/1.8.3/xampp-linux-x64-1.8.3-4-installer.run
+sudo chmod +x xampp-linux-x64-1.8.3-4-installer.run
+sudo ./xampp-linux-x64-1.8.3-4-installer.run
 
