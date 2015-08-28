@@ -26,9 +26,10 @@ wget http://ftp.jaist.ac.jp/pub/eclipse/technology/epp/downloads/release/mars/R/
 sudo mv sudo mv eclipse-jee-mars-R-linux-gtk-x86_64.tar.gz /opt
 sudo tar -zxvf eclipse-jee-mars-R-linux-gtk-x86_64.tar.gz eclipse
 
-
-
-#
+#Install Flux
+sudo add-apt-repository ppa:kilian/f.lux
+sudo apt-get update
+sudo apt-get install fluxgui
 
 #Install Python
 #Install dependecies first
