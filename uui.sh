@@ -12,6 +12,9 @@ sudo apt-get install brackets
 
 #Install Skype
 
+#Install BleachBit
+sudo apt-get install bleachbit
+
 #Instal Screenlets
 sudo add-apt-repository ppa:screenlets/ppa
 sudo apt-get update
@@ -32,6 +35,7 @@ sudo apt-get install -y gksu
 sudo apt-add-repository ppa:webupd8team/java
 sudo apt-get update
 sudo apt-get install oracle-java8-installer
+sudo apt-get install openjdk-7-jdk
 
 #install eclipse
 wget http://ftp.jaist.ac.jp/pub/eclipse/technology/epp/downloads/release/mars/R/eclipse-jee-mars-R-linux-gtk-x86_64.tar.gz
