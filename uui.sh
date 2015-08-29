@@ -12,8 +12,15 @@ sudo apt-get install brackets
 
 #Install Skype
 
+#Instal Screenlets
+sudo add-apt-repository ppa:screenlets/ppa
+sudo apt-get update
+sudo apt-get install screenlets
 
-
+#Install Sublime Text 3
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
+sudo apt-get update
+sudo apt-get install sublime-text-installer
 
 #Git Installation
 sudo apt-get install -y git
