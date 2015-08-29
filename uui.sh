@@ -12,6 +12,11 @@ sudo apt-get install brackets
 
 #Install Skype
 
+#Install Ubuntu Tweak
+sudo add-apt-repository ppa:tualatrix/ppa
+sudo apt-get update
+sudo apt-get install ubuntu-tweak
+
 #Install BleachBit
 sudo apt-get install bleachbit
 
