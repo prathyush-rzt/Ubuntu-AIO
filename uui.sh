@@ -17,6 +17,9 @@ sudo add-apt-repository ppa:tualatrix/ppa
 sudo apt-get update
 sudo apt-get install ubuntu-tweak
 
+#Install FileZilla
+sudo apt-get install filezilla
+
 #Install BleachBit
 sudo apt-get install bleachbit
 
