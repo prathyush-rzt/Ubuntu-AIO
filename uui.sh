@@ -23,6 +23,9 @@ sudo apt-get install filezilla
 #Install BleachBit
 sudo apt-get install bleachbit
 
+#install VLC
+sudo apt-get install vlc browser-plugin-vlc vlc-plugin-pulse
+
 #Instal Screenlets
 sudo add-apt-repository ppa:screenlets/ppa
 sudo apt-get update
