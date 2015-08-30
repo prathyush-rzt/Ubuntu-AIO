@@ -80,3 +80,18 @@ wget http://downloads.sourceforge.net/project/xampp/XAMPP%20Linux/1.8.3/xampp-li
 sudo chmod +x xampp-linux-x64-1.8.3-4-installer.run
 sudo ./xampp-linux-x64-1.8.3-4-installer.run
 
+##Lamp Stack Installation
+#Install Apache 2
+sudo apt-get install apache2
+
+#Install MySql
+sudo apt-get install mysql-server libapache2-mod-auth-mysql php5-mysql
+#Configure MySql
+sudo mysql_install_db
+sudo /usr/bin/mysql_secure_installation
+
+#Install PHP5 Engine
+sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt
+
+
+
