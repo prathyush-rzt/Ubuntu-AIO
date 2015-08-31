@@ -58,7 +58,7 @@ sudo add-apt-repository ppa:kilian/f.lux
 sudo apt-get update
 sudo apt-get install fluxgui
 
-#Install Python
+##Install Python
 #Install dependecies first
 sudo apt-get install -y build-essential checkinstall
 sudo apt-get install -y libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
@@ -71,7 +71,13 @@ cd Python-2.7.5
 ./configure
 make
 sudo checkinstall
+#Install Python binaries
+sudo apt-get instal python-dev libxml2-dev libxslt1-dev
+#Install PIP
 sudo apt-get install python-pip
+
+#Install Tomcat 7
+sudo apt-get install tomcat7
 
 #Install Subversion
 sudo apt-get -y install subversion
