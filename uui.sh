@@ -71,6 +71,7 @@ cd Python-2.7.5
 ./configure
 make
 sudo checkinstall
+sudo apt-get install python-pip
 
 #Install Subversion
 sudo apt-get -y install subversion
