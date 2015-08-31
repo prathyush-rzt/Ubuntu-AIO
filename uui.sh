@@ -76,6 +76,9 @@ sudo apt-get instal python-dev libxml2-dev libxslt1-dev
 #Install PIP
 sudo apt-get install python-pip
 
+#Install Grip
+sudo pip install grip
+
 #Install Tomcat 7
 sudo apt-get install tomcat7
 
