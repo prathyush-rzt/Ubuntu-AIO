@@ -82,6 +82,9 @@ sudo apt-get install tomcat7
 #Install Subversion
 sudo apt-get -y install subversion
 
+#Install Ubuntu Unity tweak 
+sudo apt-et install unity-tweak-tool
+
 #Xampp Installation
 wget http://downloads.sourceforge.net/project/xampp/XAMPP%20Linux/1.8.3/xampp-linux-x64-1.8.3-4-installer.run
 sudo chmod +x xampp-linux-x64-1.8.3-4-installer.run
