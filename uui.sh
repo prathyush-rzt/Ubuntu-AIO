@@ -120,3 +120,13 @@ sudo apt-add-repository ppa:caffeine-developers/ppa
 sudo apt-get update
 sudo apt-get install caffeine
 
+#System Monitor Indicator
+sudo apt-add-repository ppa:alexeftimie/ppa
+sudo apt-get update
+sudo apt-get install  indicator-sysmonitor
+
+#Add TLP
+sudo apt-add-repository ppa:linrunner/tlp 
+sudo apt-get update
+sudo apt-get install tlp
+
