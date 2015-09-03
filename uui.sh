@@ -112,4 +112,7 @@ sudo apt-get install xbacklight
 #Install wmctrl
 sudo apt-get install wmctrl
 
+#Install compizconfig-settings-manager
+sudo apt-get install compizconfig-settings-manager
+
 
