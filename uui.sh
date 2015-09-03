@@ -106,5 +106,10 @@ sudo /usr/bin/mysql_secure_installation
 #Install PHP5 Engine
 sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt php5-xmlrpc
 
+#Install xBackLight
+sudo apt-get install xbacklight
+
+#Install wmctrl
+sudo apt-get install wmctrl
 
 
