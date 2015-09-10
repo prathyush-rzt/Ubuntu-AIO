@@ -130,3 +130,18 @@ sudo apt-add-repository ppa:linrunner/tlp
 sudo apt-get update
 sudo apt-get install tlp
 
+#Add rclone
+wget http://downloads.rclone.org/rclone-current-linux-amd64.zip    
+unzip rclone-current-linux-amd64.zip
+rm -rf rclone-current-linux-amd64.zip
+cd rclone-current-linux-amd64
+#copy binary file
+sudo cp rclone /usr/sbin/
+sudo chown root:root /usr/sbin/rclone
+sudo chmod 755 /usr/sbin/rclone
+#install manpage
+sudo mkdir -p /usr/local/share/man/man1
+sudo cp rclone.1 /usr/local/share/man/man1/
+cd ..
+rm -rf rclone-current-linux-amd64
+sudo mandb 
