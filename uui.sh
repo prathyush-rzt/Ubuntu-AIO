@@ -145,3 +145,6 @@ sudo cp rclone.1 /usr/local/share/man/man1/
 cd ..
 rm -rf rclone-current-linux-amd64
 sudo mandb 
+
+#Install GParted
+sudo apt-get install gparted
