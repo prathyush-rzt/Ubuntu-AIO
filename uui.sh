@@ -148,3 +148,6 @@ sudo mandb
 
 #Install GParted
 sudo apt-get install gparted
+
+#Install NPM
+sudo apt-get install npm
