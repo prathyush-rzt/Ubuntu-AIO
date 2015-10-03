@@ -151,3 +151,6 @@ sudo apt-get install gparted
 
 #Install NPM
 sudo apt-get install npm
+
+#Install Numpy
+sudo pip install numpy
