@@ -154,3 +154,6 @@ sudo apt-get install npm
 
 #Install Numpy
 sudo pip install numpy
+
+#Intall un-rar
+sudo apt-get install unrar
