@@ -157,3 +157,11 @@ sudo pip install numpy
 
 #Intall un-rar
 sudo apt-get install unrar
+
+#Intstall Team Viewer 
+mkdir tempUUI
+cd tempUUI
+wget http://download.teamviewer.com/download/teamviewer_i386.deb
+sudo dpkg -i teamviewer_i386.deb
+cd ..
+rm -rf tempUUI
