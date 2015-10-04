@@ -163,5 +163,7 @@ mkdir tempUUI
 cd tempUUI
 wget http://download.teamviewer.com/download/teamviewer_i386.deb
 sudo dpkg -i teamviewer_i386.deb
+sudo apt-get install -f
+sudo dpkg -i teamviewer_i386.deb
 cd ..
 rm -rf tempUUI
