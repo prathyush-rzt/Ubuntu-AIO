@@ -167,3 +167,6 @@ sudo apt-get install -f
 sudo dpkg -i teamviewer_i386.deb
 cd ..
 rm -rf tempUUI
+
+##Install Scala
+sudo apt-get install scala
