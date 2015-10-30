@@ -168,5 +168,15 @@ sudo dpkg -i teamviewer_i386.deb
 cd ..
 rm -rf tempUUI
 
-##Install Scala
+#Install Scala
+sudo apt-get remove scala-library scala
+wget http://www.scala-lang.org/files/archive/scala-2.11.7.deb
+sudo dpkg -i scala-2.11.7.deb
+sudo apt-get update
 sudo apt-get install scala
+
+#Install SBT required for Scala
+wget http://dl.bintray.com/sbt/debian/sbt-0.13.8.deb
+sudo dpkg -i sbt-0.13.8.deb 
+sudo apt-get update
+sudo apt-get install sbt
