@@ -180,3 +180,6 @@ wget http://dl.bintray.com/sbt/debian/sbt-0.13.8.deb
 sudo dpkg -i sbt-0.13.8.deb 
 sudo apt-get update
 sudo apt-get install sbt
+
+#Install Aria2 Download Manager (Better than wget)
+sudo apt-get install aria2
