@@ -72,7 +72,7 @@ cd Python-2.7.5
 make
 sudo checkinstall
 #Install Python binaries
-sudo apt-get instal python-dev libxml2-dev libxslt1-dev
+sudo apt-get install python-dev libxml2-dev libxslt1-dev
 #Install PIP
 sudo apt-get install python-pip
 
