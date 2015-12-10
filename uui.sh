@@ -192,3 +192,9 @@ sudo apt-get install -y mongodb-org
 
 #Install maven    
 sudo apt-get install maven
+
+#Install ImageMagic
+sudo add-apt-repository "deb http://archive.ubuntu.com/ubuntu $(lsb_release -sc) main"
+sudo add-apt-repository "deb http://archive.ubuntu.com/ubuntu $(lsb_release -sc) universe"
+sudo apt-get update
+sudo apt-get install imagemagick php5-imagick
