@@ -27,6 +27,7 @@ Sl no  | System Software
 18 | SBT
 19 | MongoDB
 20 | Maven
+21 | Wine
 
 
 Sl no  | Utilities
