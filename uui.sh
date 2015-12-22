@@ -43,11 +43,9 @@ sudo apt-get install sublime-text-installer # Sublime Text 3
 sudo apt-get install -y git # GIT
 sudo apt-get install -y gksu # Graphical SUDO
 sudo apt-get install oracle-java8-installer # Oracle JDK 8
-sudo apt-get install openjdk-7-jdk # OpenJDK 7
+#sudo apt-get install openjdk-7-jdk # OpenJDK 7
 sudo apt-get install fluxgui # FLux
-#Install Python binaries
-sudo apt-get install python-dev libxml2-dev libxslt1-dev
-sudo apt-get install python-pip #PIP
+sudo apt-get install python-dev libxml2-dev libxslt1-dev python-pip #Install Python binaries and pip
 sudo apt-get install tomcat7 # Tomcat 7 Server
 sudo apt-get -y install subversion # Subversion (SVN)
 sudo apt-get install apache2 # Apache 2 Server
