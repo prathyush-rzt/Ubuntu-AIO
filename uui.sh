@@ -26,6 +26,7 @@ sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /et
 #Mongo DB
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
 echo "deb http://repo.mongodb.org/apt/ubuntu "$(lsb_release -sc)"/mongodb-org/3.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.0.list
+sudo add-apt-repository ppa:plushuang-tw/uget-stable #uget
 
 
 
@@ -63,6 +64,7 @@ sudo apt-get install -y mongodb-org # Mongo DB
 sudo apt-get install maven # Maven
 sudo apt-get install imagemagick php5-imagick # ImageMagic
 sudo apt-get install wine # Wine
+sudo apt-get install uget #uget
 
 ##Ubuntu Only installations
 #sudo apt-get install unity-tweak-tool # Ubuntu Unity tweak
