@@ -66,6 +66,15 @@ sudo apt-get install imagemagick php5-imagick # ImageMagic
 sudo apt-get install wine # Wine
 sudo apt-get install uget #uget
 
+
+##Fing Installation
+# mkdir fing && cd fing
+# wget http://www.overlooksoft.com/getfing4linux?plat=lx64&ext=deb
+# sudo dpkg -i *.deb
+# cd .. && rm -rf fing
+
+
+
 ##Ubuntu Only installations
 #sudo apt-get install unity-tweak-tool # Ubuntu Unity tweak
 #sudo apt-get install compizconfig-settings-manager # compizconfig-settings-manager
