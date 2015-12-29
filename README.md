@@ -48,6 +48,7 @@ Sl no  | Utilities
 13 | Unrar
 14 | Teamviewer
 15 | Aria2
+16 | Fing
 
 Sl no  | Ubuntu Tweaks
 ------ | -------------
