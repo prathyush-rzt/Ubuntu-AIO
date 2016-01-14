@@ -65,6 +65,7 @@ sudo apt-get install maven # Maven
 sudo apt-get install imagemagick php5-imagick # ImageMagic
 sudo apt-get install wine # Wine
 sudo apt-get install uget #uget
+sudo apt-get install -y samba
 
 
 ##Fing Installation
