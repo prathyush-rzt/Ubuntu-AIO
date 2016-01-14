@@ -57,7 +57,7 @@ sudo apt-get install caffeine # Caffine
 sudo apt-get install  indicator-sysmonitor # System Monitor Indicatior
 sudo apt-get install tlp # TLP
 sudo apt-get install gparted # GParted
-sudo apt-get install npm # NPM
+sudo apt-get install npm # Node Package Manager
 sudo apt-get install unrar # un-rar
 sudo apt-get install aria2 # Aria2 Download Manager
 sudo apt-get install -y mongodb-org # Mongo DB
@@ -66,6 +66,7 @@ sudo apt-get install imagemagick php5-imagick # ImageMagic
 sudo apt-get install wine # Wine
 sudo apt-get install uget #uget
 sudo apt-get install -y samba
+sudo apt-get install redis-server
 
 
 ##Fing Installation
