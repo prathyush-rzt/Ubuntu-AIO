@@ -29,6 +29,8 @@ Sl no  | System Software
 20 | Maven
 21 | Wine
 22 | UGet
+23 | Samba
+24 | Redis Server
 
 
 Sl no  | Utilities
