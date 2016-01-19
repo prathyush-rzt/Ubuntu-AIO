@@ -31,7 +31,7 @@ Sl no  | System Software
 22 | UGet
 23 | Samba
 24 | Redis Server
-
+25 | Gradle 
 
 Sl no  | Utilities
 ------ | -------------
