@@ -65,8 +65,9 @@ sudo apt-get install maven # Maven
 sudo apt-get install imagemagick php5-imagick # ImageMagic
 sudo apt-get install wine # Wine
 sudo apt-get install uget #uget
-sudo apt-get install -y samba
-sudo apt-get install redis-server
+sudo apt-get install -y samba #Samba client
+sudo apt-get install redis-server #Redis Server
+sudo apt-get install gradle # Gradle build tool
 
 
 ##Fing Installation
